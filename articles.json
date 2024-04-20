@@ -1,0 +1,24 @@
+{
+    "articles": [
+      {
+        "name": "Article 1",
+        "description": "Description of article 1. This is a multiline description. It can contain multiple lines of text to provide detailed information about the article.",
+        "image": "https://via.placeholder.com/150",
+        "url": "article1.html"
+      },
+      {
+        "name": "Article 2",
+        "description": "Description of article 2. Another example of a multiline description.",
+        "image": "https://via.placeholder.com/150",
+        "url": "article2.html"
+      },
+      {
+        "name": "Article 3",
+        "description": "Description of article 3. Yet another multiline description.",
+        "image": "https://via.placeholder.com/150",
+        "url": "article3.html"
+      }
+    ]
+  }
+  
+  
